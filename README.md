@@ -1,0 +1,2 @@
+# bert2kg
+Implementing (ish): LANGUAGE MODELS ARE OPEN KNOWLEDGE GRAPHS
